@@ -1,5 +1,5 @@
 # Basic Education Assessment System 2019 (SAEB)
-Dataset with school assessment from Brazil performed every two years, used for the year of 2019 in this study. It contains the results of Portuguese and math tests of students from each school for different education levels (primary education, high school). It also has questionnaires about social and economic conditions answered by students, teachers, and the principal. Brazil's government collects the data in an initiative from INEP. This data is suited for analysis of school performance in Brazil.
+Dataset with school assessment from Brazil performed in 2019. It contains the results of Portuguese and math tests of students from each school for different education levels (primary education, high school). It also has questionnaires about social and economic conditions answered by students, teachers, and the principal. Brazil's government collects the data in an initiative from INEP. This data is suited for analysis of school performance in Brazil.
 
 #### Dataset Link
 <!-- info: Provide a link to the dataset: -->
@@ -80,9 +80,8 @@ Other Characteristics | 123456
 #### Content Description
 <!-- scope: microscope -->
 <!-- info: Provide a short description of the content in a data point: -->
-Summarize here. Include links if available.
+Contains information information of Brazilian schools in 2019: the average result of students of the last year of basic education in a test of portuguese and math, information about the school and a questionnarie answered by the school principal. 
 
-**Additional Notes:** Add here.
 
 #### Descriptive Statistics
 <!-- width: full -->
@@ -151,105 +150,18 @@ the original school and municipality from this random code.
 
 **Method:** Removal of sensitive identifiers and replacement with random codes
 
-**Additional Notes:** Add here
-
-#### Risk Type(s)
-<!-- scope: telescope -->
-<!-- info: Select **all applicable** risk types presenting from the
-dataset: -->
-- Indirect Risk
-
-#### Risk(s) and Mitigation(s)
-<!-- scope: microscope -->
-<!-- info: Summarize the steps taken to identify and mitigate risks from PII
-or sensitive information.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-Summarize here. Include links and metrics where applicable.
-
-**Risk type:** Description + Mitigations
-
-**Risk type:** Description + Mitigations
-
-**Risk type:** Description + Mitigations
-
-**Additional Notes:** Add here
-
 ### Dataset Version and Maintenance
 #### Maintenance Status
 <!-- scope: telescope -->
 <!-- info: Select **one:** -->
-**Regularly Updated** - New versions of the dataset
-have been or will continue to be
-made available.
-
-**Actively Maintained** - No new versions will be made
-available, but this dataset will
-be actively maintained,
-including but not limited to
-updates to the data.
 
 **Limited Maintenance** - The data will not be updated,
-but any technical issues will be
-addressed.
-
-**Deprecated** - This dataset is obsolete or is
-no longer being maintained.
+but technical issues might be addressed. Similar datasets will
+be generated yearly.
 
 #### Version Details
 <!-- scope: periscope -->
 <!-- info: Provide details about **this** version of the dataset: -->
-**Current Version:** 1.0
+**Current Version:** 3.0
 
-**Last Updated:** MM/YYYY
-
-**Release Date:** MM/YYYY
-
-#### Maintenance Plan
-<!-- scope: microscope -->
-<!-- info: Summarize the maintenance plan for the dataset:
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-Summarize here. Include links and metrics where applicable.
-
-**Versioning:** Summarize here. Include information about criteria for
-versioning the dataset.
-
-**Updates:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Errors:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Feedback:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Additional Notes:** Add here
-
-#### Next Planned Update(s)
-<!-- scope: periscope -->
-<!-- info: Provide details about the next planned update: -->
-**Version affected:** 1.0
-
-**Next data update:** MM/YYYY
-
-**Next version:** 1.1
-
-**Next version update:** MM/YYYY
-
-#### Expected Change(s)
-<!-- scope: microscope -->
-<!-- info: Summarize the updates to the dataset and/or data that are expected
-on the next update.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-**Updates to Data:** Summarize here. Include links, charts, and visualizations
-as appropriate.
-
-**Updates to Dataset:** Summarize here. Include links, charts, and
-visualizations as appropriate.
-
-**Additional Notes:** Add here
+**Last Updated:** 04/2023
