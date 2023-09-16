@@ -4,7 +4,7 @@ Dataset with school assessment from Brazil performed in 2019. It contains the re
 #### Dataset Link
 <!-- info: Provide a link to the dataset: -->
 <!-- width: half -->
-https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb/resultados
+https://drive.google.com/file/d/1Q9jCNuTbw0PAa9lU474TGWziAie_B0IY/view?usp=sharing
 
 #### Data Card Author(s)
 <!-- info: Select **one role per** Data Card Author:
@@ -63,8 +63,8 @@ to include relevant information, considerations, and links to table(s) with
 more detailed breakdowns.) -->
 Category | Data
 --- | ---
-Size of Dataset | 123456 MB
-Number of Instances | 123456
+Size of Dataset | 26 MB
+Number of Instances | 
 Number of Fields | 123456
 Labeled Classes | 123456
 Number of Labels | 123456789
